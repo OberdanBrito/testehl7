@@ -1,0 +1,17 @@
+{
+    "name": "oberdan/testehl7",
+    "description": "teste HL7",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Oberdan\\Testehl7\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oberdan",
+            "email": "oberdan@craos.net"
+        }
+    ],
+    "require": {}
+}
